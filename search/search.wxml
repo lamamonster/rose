@@ -1,0 +1,8 @@
+<!--pages/search/search.wxml-->
+<view class="search_container">
+    <view class="search_header">
+      <image src="../../images/icon_search.png" class="search_icon"></image>
+        <input class="search_word" placeholder="搜索" placeholder-style='font-size:26rpx;line-height:26rpx;' bindinput="search" maxlength="15" bindconfirm="certain"></input>
+    </view>
+</view>
+
