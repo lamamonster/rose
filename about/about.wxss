@@ -1,0 +1,27 @@
+/* pages/about/about.wxss */
+.fontstyle{
+  font-family: cursive;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: bold;
+  text-indent: 2em;
+}
+
+.fontstyl{
+  font-family: cursive;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: bold;
+  text-indent: 2em;
+}
+
+.fontphoto{
+  /* margin-top: 50px; */
+  justify-content: center;
+  display: flex;
+}
+
+.fontphoto pho{
+  width: 100rpx;
+  height: 100rpx;
+}

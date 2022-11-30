@@ -1,0 +1,14 @@
+<!--pages/about/about.wxml-->
+
+
+<view class="fontstyle">
+  <text>hello!你好呀，这里是东拼西凑队带来的东学西读小程序。</text>
+  
+</view>
+<view class="fontstyl">
+ <text>想要专心学习吗？想在学习的时候只用打开一个软件就能够学习自己想要的网课吗？来东学西读吧，在这里，你可以学习自己感兴趣的网课，也可以通过别人的推荐找到自己需要并且感兴趣的网课，欢迎加入我们，一起学习吧！</text>
+</view>
+
+<view  class="fontphoto">
+ <image  src="../../images/name.jpg" class="pho"></image>
+</view>
